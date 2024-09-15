@@ -47,13 +47,3 @@ Users can add, edit, and delete tasks from a Todo list:
 
 ## Contributors
 - **NandaHasnan** - Developer
-
-## Demo
-
-Insert gif or link to demo
-
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
