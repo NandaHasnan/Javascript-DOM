@@ -23,6 +23,7 @@ Users can add, edit, and delete tasks from a Todo list:
 - **Add Task**: Users can input a task and a due date. Each new task is displayed in a table with an option to edit or delete the task.
 - **Edit Task**: Click the edit button on an existing task to modify it.
 - **Delete Task**: Click the delete button to remove a task from the list.
+![Screenshot 2024-09-17 122025](https://github.com/user-attachments/assets/121c6088-b9e5-4427-9921-418291534e23)
 
 ## How It Works
 - The app tracks the total number of tasks using a counter (`todoCount`).
